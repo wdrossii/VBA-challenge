@@ -1,0 +1,3 @@
+# VBA-challenge
+Module 2, 2nd submission
+stock_analysis macro in the Excel worksheet used to create the results. The solution was copied from https://git.bootcampcontent.com/University-of-Denver/DU-VIRT-DATA-PT-09-2024-U-LOLC/-/tree/main/Assignments/02-VBA-Scripting?ref_type=heads. Author unknown, but assumed to be Steven Green, course instructor. The solution was uploaded by Steven Green. Since the solution code only ran for the Q1 tab, I added functionality to run the code for all quarters. Also, I added formatting code for the results headings, the final quarterly volume and the summary volumes (due to the number being too large for the format), and to resize the columns. All of these are noted in the VBA code.
